@@ -10,7 +10,7 @@ var player;
 var fruit;
 var grid = [];
 
-var fr = 15;
+var fr = 30;
 
 function updateGrid(x, y, val) {
 	grid[x][y] = val;
