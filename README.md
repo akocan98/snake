@@ -1,2 +1,6 @@
 # Snake-JS
-A snake clone made in JS with the p5.js library
+A very simple snake clone made in JS with the p5.js library
+
+## Usage
+
+Open index.html
